@@ -38,7 +38,18 @@ img
 	margin-left: 40px;
 }
 
+.jobs1
+{	
+	float: left;
+	width: 50%;
+	padding-bottom: 10px;
+}
 
+.jobs2
+{	float: right;
+	width: 50%;
+	padding-bottom: 10px;
+}
 
 .Ptitles {
 color: #53b5bd;
@@ -50,8 +61,19 @@ padding-left: 30px;
 padding-top: 20px;
 }
 
+
+
 ul {
 	list-style: none;
 	font-family: sans-serif;
 	font-size: 20px;
+}
+footer {
+position: relative;
+  bottom: 50;
+  left: 10;
+  height: 180px;
+  background-color: white;
+  width: 100%;
+  padding: 10px;
 }
